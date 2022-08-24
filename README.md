@@ -5,7 +5,7 @@ A simple bash script to modify ubuntu dash to dock made with 💜
 
 # Download
 
-- Visit the github page [2Dock website](https://dreamcatcher45.github.io/2Dock/)
+- Visit the  [2Dock website](https://dreamcatcher45.github.io/2Dock/)
 - Download the zip file
 - Extract the zip file
 - Open terminal in the current folder
